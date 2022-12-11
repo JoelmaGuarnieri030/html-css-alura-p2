@@ -2,18 +2,20 @@ body {
 
 }
 
-#banner { width:100%;
+#banner
+{ width:100%;
 
 }
 
-.principal [
-
+.principal {
 backgound: #CCCCCC;
-
 padding: 30px;
-
-title - main { padding - left : 20px ;
+}
+title - main {
+  padding - left : 20px ;
 
 }
 
-title - centralized { text - align : center
+title - centralized {
+  text - align : center
+}
