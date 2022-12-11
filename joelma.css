@@ -19,25 +19,28 @@ title - main {
 title - centralized {
   text - align : center
 }
-P
-
+P{
 text-align: center;
-
-# mission [
-
+}
+# mission {
 font-size 20px
-
-em strong f
-
-color:#FF0000
-
-Items
-
+}
+em strong {
+color:#FF0000;
+}
+Items{
 Font-style: italic
-
-Background: #FFEEEE
-
+}
+.beneficios{
+Background: #FFFFFF;
 padding: 20px;
-ul { display: inline-block; vertical-align: top; width: 20%; margin-right: 15%;
-
-} imagembeneficios { width: 50%;
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.imagembeneficios {
+  width: 50%;
+}
